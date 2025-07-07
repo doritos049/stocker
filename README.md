@@ -6,6 +6,7 @@
 Release에서 stocker_streaming.zip파일을 다운받아 압축 해제. stocker_streaming.exe 실행.
 
 ## 🔧 실행 화면
+실행 시 아래와 같이 동작함을 확인.
 ```bash
  Serving Flask app 'stocker_streaming'
  Debug mode: on
