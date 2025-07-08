@@ -11,11 +11,11 @@ Release에서 stocker_streaming.zip파일을 다운받아 압축 해제. stocker
  Serving Flask app 'stocker_streaming'
  Debug mode: on
 ```
-
-- 접속: http://localhost:8050 또는 서버IP:8050
-
 * v1.1부터는 티커 검색기능이 추가됨으로서, 티커 library를 불러들이는 과정이 추가되었습니다.
 ![image](https://github.com/user-attachments/assets/83c39c5c-e9b5-4fd2-9f8f-09ff4a6fa6ca)
+
+- 접속: http://localhost:8050 또는 서버IP:8050
+![image](https://github.com/user-attachments/assets/7a3fe929-2574-4587-b7f0-b05070f72c25)
 
 ## 🔧 주요 기능
 - 실시간 주가/뉴스/옵션/리스크/오퍼링/AI 종합점수/전략 요약 등 대시보드 제공
