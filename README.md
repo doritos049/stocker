@@ -14,6 +14,7 @@ Release에서 stocker_streaming.zip파일을 다운받아 압축 해제. stocker
 
 - 접속: http://localhost:8050 또는 서버IP:8050
 
+* v1.1부터는 티커 검색기능이 추가됨으로서, 티커 library를 불러들이는 과정이 추가되었습니다.
 ![image](https://github.com/user-attachments/assets/83c39c5c-e9b5-4fd2-9f8f-09ff4a6fa6ca)
 
 ## 🔧 주요 기능
